@@ -1,24 +1,24 @@
 
-<!-- ANKIT KUMAR | GITHUB PROFILE README -->
+<!-- =========================================
+     ANKIT KUMAR | GITHUB PROFILE README
+     ========================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A35,50:0756A8,100:00B4D8&height=200&section=header&text=Ankit%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A35,50:0756A8,100:00B4D8&height=200&section=header&text=ANKIT%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Aspiring+Software+Engineer;Data+Analytics+%7C+Machine+Learning;Building+Real+World+Projects;Always+Learning+Something+New!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Aspiring+Software+Engineer;Data+Analytics+%7C+Machine+Learning;Building+Real+World+Projects;Learning+%7C+Building+%7C+Growing" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/AnkitMaurya0">
-<img src="https://komarev.com/ghpvc/?username=AnkitMaurya0&label=PROFILE+VIEWS&color=0E75B6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AnkitMaurya0&label=PROFILE+VIEWS&color=0A66C2&style=for-the-badge" alt="Profile Views"/>
 </a>
-
 <a href="https://github.com/AnkitMaurya0?tab=followers">
-<img src="https://img.shields.io/github/followers/AnkitMaurya0?label=FOLLOWERS&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/AnkitMaurya0?label=FOLLOWERS&style=for-the-badge&color=0A66C2" alt="Followers"/>
 </a>
-
 <a href="https://github.com/AnkitMaurya0?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-0A66C2?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-0A66C2?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
 </div>
@@ -27,51 +27,16 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AnkitKumar:
-
-    def __init__(self):
-        self.name = "Ankit Kumar"
-        self.education = "B.Tech - AI & ML"
-        self.college = "Chandigarh Engineering College"
-        self.location = "India"
-
-        self.role = [
-            "Aspiring Software Engineer",
-            "Machine Learning Enthusiast",
-            "Data Analytics Enthusiast"
-        ]
-
-        self.languages = [
-            "Python", "C++", "Java",
-            "SQL", "JavaScript"
-        ]
-
-        self.interests = [
-            "Machine Learning",
-            "Data Science",
-            "Software Development",
-            "Problem Solving"
-        ]
-
-    def currently_learning(self):
-        return [
-            "Data Structures & Algorithms",
-            "Machine Learning",
-            "SQL & DBMS",
-            "Advanced Python"
-        ]
-
-me = AnkitKumar()
-```
+Hi! I'm **Ankit Kumar**, an aspiring Software Engineer and AI & Machine Learning enthusiast from India.
 
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning (2025–2028).
+- 🏫 Chandigarh Engineering College, Jhanjheri.
 - 💼 Data Analytics Intern at Codec Technologies.
 - 🤖 Former Machine Learning Intern at Future Interns.
 - 🏆 Selected among Top 1000 students in EricssonEdge Academia 3.0.
-- 📊 Experienced in building ML models and data-driven applications.
-- 🚀 Interested in solving real-world problems through technology.
-- 🌱 Currently strengthening DSA, SQL and Machine Learning.
+- 📊 Interested in Machine Learning, Data Science and Software Development.
+- 🌱 Currently improving DSA, SQL, DBMS and Machine Learning.
+- 🚀 Passionate about building practical, real-world applications.
 
 ---
 
@@ -79,14 +44,19 @@ me = AnkitKumar()
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,mysql"/>
+<p align="left">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45"/></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="45"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="45"/></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
 </p>
 
 ### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,react"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,mysql" height="45"/>
 </p>
 
 <p>
@@ -99,8 +69,8 @@ me = AnkitKumar()
 
 ### Developer Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" height="45"/>
 </p>
 
 ---
@@ -109,87 +79,141 @@ me = AnkitKumar()
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">💳 Credit Risk Prediction</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Machine-Learning-0A66C2"/>
-<img src="https://img.shields.io/badge/Python-3776AB"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B"/>
-<p>Developed a credit risk prediction system using LendingClub data (100K+ records).</p>
-<p><b>Tech:</b> Logistic Regression, Random Forest, XGBoost, SHAP</p>
-</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+Credit risk prediction system built using the LendingClub dataset (100K+ records).
+
+- Logistic Regression
+- Random Forest
+- XGBoost
+- SHAP explainability
+- Streamlit deployment
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">🎨 Artify</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Flask-black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1"/>
-<p>A web-based startup project with a Python backend and database integration.</p>
-<p><b>Tech:</b> Python, Flask, MySQL</p>
-<a href="https://github.com/AnkitMaurya0/artify">View Repository</a>
-</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+Web-based startup project.
+
+- Python backend
+- Flask framework
+- MySQL database
+- Web application development
+
+<p align="center">
+<a href="https://github.com/AnkitMaurya0/artify">View Project →</a>
+</p>
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">🔥 FlareGuard</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/IoT-0A66C2"/>
-<img src="https://img.shields.io/badge/Embedded-Systems-orange"/>
-<p>Smart fire detection system designed for monitoring and early fire alerts.</p>
-<p><b>Tech:</b> Sensors, IoT, Embedded Systems</p>
-</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/IoT-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+</p>
+
+Smart fire detection system.
+
+- Sensor-based monitoring
+- Early fire detection
+- IoT integration
+- Embedded systems
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">🌱 Smart Agriculture Robot</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Arduino-00979D"/>
-<img src="https://img.shields.io/badge/ESP32-blue"/>
-<p>Smart agricultural robot integrating sensors and automation.</p>
-<p><b>Tech:</b> Arduino Uno, ESP32, Sensors</p>
-</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino"/>
+<img src="https://img.shields.io/badge/ESP32-blue?style=flat-square"/>
+</p>
+
+Smart agricultural automation project.
+
+- Arduino Uno
+- ESP32
+- Sensor integration
+- Agricultural monitoring
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">📚 GateSathi Dataset Builder</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688"/>
-<img src="https://img.shields.io/badge/Python-3776AB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1"/>
-<p>PDF-based dataset processing and extraction application.</p>
-<p><b>Tech:</b> FastAPI, SQLAlchemy, PyMuPDF, MySQL</p>
-</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+</p>
+
+PDF-based dataset processing application.
+
+- FastAPI backend
+- SQLAlchemy
+- PyMuPDF
+- MySQL database
+- PDF page processing
+
 </td>
-<td width="50%">
-<h3 align="center">💻 More Projects</h3>
-<div align="center">
-<p>Explore my repositories to see more experiments, learning projects and applications.</p>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Explore More</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Open_Source-Projects-0A66C2?style=flat-square&logo=github"/>
+</p>
+
+Explore my GitHub repositories for more projects, experiments and learning.
+
+<p align="center">
 <a href="https://github.com/AnkitMaurya0?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Projects-0077B5?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Explore_All_Repositories-0077B5?style=for-the-badge&logo=github"/>
 </a>
-</div>
+</p>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**Data Analytics Intern | Codec Technologies**
-<sub>June 2026 – July 2026</sub>
+### 📊 Data Analytics Intern — Codec Technologies
+<sub>June 2026 – July 2026 | 1 Month</sub>
 
-- Developed credit risk prediction models using Python.
+- Built and evaluated a credit risk prediction model using the LendingClub dataset.
 - Implemented Logistic Regression, Random Forest and XGBoost.
 - Evaluated models using ROC-AUC, Precision, Recall and F1-score.
-- Applied SHAP for model explainability.
-- Built an interactive Streamlit application.
+- Used SHAP for model explainability.
+- Developed a Streamlit application.
 
-**Machine Learning Intern | Future Interns**
-<sub>September 2025</sub>
+### 🤖 Machine Learning Intern — Future Interns
+<sub>September 2025 | 1 Month</sub>
 
 - Developed supervised machine learning models.
 - Worked with Python and Scikit-learn.
@@ -199,17 +223,16 @@ me = AnkitKumar()
 
 ## 🎓 Education
 
-| Qualification | Institution | Details |
-|---|---|---|
-| B.Tech – AI & ML | Chandigarh Engineering College, Jhanjheri | 2025–2028 |
-| Diploma – Electronics Engineering | Government Polytechnic, West Champaran | 2022–2025 |
-| Diploma CGPA | | 8.44/10 |
+| Qualification | Institution | Year | Result |
+|---|---|---|---|
+| B.Tech AI & ML | Chandigarh Engineering College | 2025–2028 | Pursuing |
+| Diploma Electronics Engineering | Government Polytechnic, West Champaran | 2022–2025 | 8.44/10 |
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 EricssonEdge Academia 3.0 – Selected among Top 1000 students.
+- 🏅 Selected among Top 1000 students – EricssonEdge Academia 3.0.
 - 📊 Data Analytics Internship – Codec Technologies.
 - 🤖 Machine Learning Internship – Future Interns.
 - 🔐 Cisco Cybersecurity Certification.
@@ -217,15 +240,15 @@ me = AnkitKumar()
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitMaurya0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitMaurya0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitMaurya0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
 
-<br/>
+<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=AnkitMaurya0&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
@@ -255,12 +278,15 @@ me = AnkitKumar()
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<!-- Add your LinkedIn URL here when ready -->
+
 <br/><br/>
 
 ### 💬 Let's Connect, Collaborate & Build Something Amazing!
 
 **"Consistency + Learning + Building = Growth 🚀"**
 
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0756A8,100:071A35&height=120&section=footer" width="100%"/>
 
-</div>
